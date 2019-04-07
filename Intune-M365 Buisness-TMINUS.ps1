@@ -12,13 +12,13 @@ This script is specific to the M365 Business Sku
 After you run this script, you will have
 
 1.	A device compliance policy for:
-	 iOS (Configure line 1413)
-     Android (Configure line 1388)
-     Windows(Configure line 1435)
-2.	A device configuration policy for Windows Devices to have BitLocker(Configure line 1460)
-3.	Terms and Conditions for when users enroll(Configure line 1479)
-4.	Office 365 Business pushed out as a required App to window 10 devices(Configure line 1491)
-5.	Microsoft Authenticator pushed out as a required App for iOS and Android devices(Configure line 1526)
+	 	iOS (Configure line 1506)
+    	 	Android (Configure line 1481)
+     		Windows(Configure line 1528)
+2.	A device configuration policy for Windows Devices to have BitLocker(Configure line 1553)
+3.	Terms and Conditions for when users enroll(Configure line 1572)
+4.	Office 365 Business pushed out as a required App to window 10 devices(Configure line 1583)
+5.	Microsoft Authenticator pushed out as a required App for iOS and Android devices(Configure line 1619)
 
 #>
 
